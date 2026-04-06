@@ -15,6 +15,3 @@ hidead
 DrunkHamster
 188.235.162.209
 DrunkHamster
-TEST
-92.38.222.35
-TEST
