@@ -11,6 +11,7 @@ Frozen echo dayz
 hidead
 145.239.149.44
 91.242.119.26
+145.239.149.44
 hidead
 DrunkHamster
 188.235.162.209
