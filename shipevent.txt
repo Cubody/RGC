@@ -8,6 +8,7 @@ CheGuevara
 CheGuevara
 Frozen echo dayz
 185.207.214.129
+212.22.85.238
 Frozen echo dayz
 hidead
 145.239.149.44
