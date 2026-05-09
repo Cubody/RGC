@@ -7,9 +7,7 @@ CheGuevara
 95.52.240.83
 CheGuevara
 Fire Echo
-212.22.85.238
-212.22.85.153
-46.174.49.136
+5.42.211.112
 Fire Echo
 hidead
 145.239.149.44
